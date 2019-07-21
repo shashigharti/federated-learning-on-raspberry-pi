@@ -24,5 +24,5 @@
 3. Series and Parallel combination of Resistors, Voltage and Current Divider, Wye Delta Conversion, Balanced Bridge Circuit: https://www.udemy.com/basics-of-electric-circuits/ (edited) 
 
 ## Start Contributing
-The tutorial on how to contribute can be found [here]("https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/How-to-contribute")
+The tutorial on how to contribute can be found here . https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/How-to-contribute
 
