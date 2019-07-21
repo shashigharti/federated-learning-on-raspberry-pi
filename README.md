@@ -18,6 +18,10 @@
 5. Learn the basics circuit design and build your own autonomous car: https://www.udemy.com/introduction-to-robotics-autonomous-car-design/
 6. Robotics for Beginners - Learn to build a Time Control Robot and move it in 6 different directions: https://www.udemy.com/robotics-for-beginners-build-time-control-robot-from-scratch/
 
+## Robotics/Electronics
+1. Learn the Building Blocks for a Career in Robotics. Gain experience programming robots to perform in situations and for use in crisis management: https://www.coursera.org/specializations/robotics?action=enroll
+2. Experience Sensors and Motors in an IoT World. Master sensor and motor theory, and program these devices in a microprocessor system: https://www.coursera.org/specializations/embedding-sensors-motors
+3. Series and Parallel combination of Resistors, Voltage and Current Divider, Wye Delta Conversion, Balanced Bridge Circuit: https://www.udemy.com/basics-of-electric-circuits/ (edited) 
 
 # Start Contributing
 The tutorial on how to contribute can be found [here]("https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/How-to-contribute")
