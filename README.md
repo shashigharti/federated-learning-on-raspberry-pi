@@ -2,6 +2,12 @@
 ## Topics
    - PySyft(https://github.com/OpenMined/PySyft)
    - Raspberry Pi 
+   
+## Tutorials and links for the project
+- Tutorial: https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/
+- YouTube: https://www.youtube.com/watch?v=knNgFk0uZHM
+- Join OpenMined: http://slack.openmined.org/
+- OpenMined GitHub: https://github.com/OpenMined/PySyft
 
 ## Free Courses
 ### Raspberry Pi 
