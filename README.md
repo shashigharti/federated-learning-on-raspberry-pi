@@ -8,6 +8,7 @@
 - YouTube: https://www.youtube.com/watch?v=knNgFk0uZHM
 - Join OpenMined: http://slack.openmined.org/
 - OpenMined GitHub: https://github.com/OpenMined/PySyft
+- Install PySyft in Google Colab: https://medium.com/secure-and-private-ai-writing-challenge/google-colab-notebook-for-lesson-7-federated-learning-21d479e09961
 
 ## Free Courses
 ### Raspberry Pi 
