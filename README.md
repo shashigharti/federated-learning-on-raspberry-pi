@@ -27,7 +27,6 @@ We will set up PySyft on two Raspberry Pis and learn how to train a Recurrent Ne
 - Vigneshwari
 - Nachiket
 - cibaca
-- Nirupama Singh
 - Oluwadamilola Saka (Dammy)
 - Molly ngampit
 - Elena Kutanov
