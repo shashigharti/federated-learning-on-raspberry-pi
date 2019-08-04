@@ -18,8 +18,8 @@ We will set up PySyft on two Raspberry Pis and learn how to train a Recurrent Ne
 - Pooja Vinod - https://github.com/poojavinod100
 - Alex Ahumada - https://github.com/projectsperminute
 - Elena Kutanov - https://github.com/EVikVik
+- Mahmmoud Mahdi (qursaan) - https://github.com/qursaan
 - Temitope Oladokun
-- Mahmmoud Mahdi (qursaan)
 - Shivam Raisharma
 - Sankalp Dayal
 - Sushil Ghimire
