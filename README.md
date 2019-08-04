@@ -3,6 +3,30 @@ Scholars from the Secure and Private AI Scholarship Challenge from Facebook and 
 
 We will set up PySyft on two Raspberry Pis and learn how to train a Recurrent Neural Network on a Raspberry Pi via PySyft.
 
+## Project lead
+- Shashi Gharti: Project lead - https://github.com/shashigharti
+- Helena Barmer: Project lead - https://github.com/helenabarmer
+
+## Contributors/Team
+- Erin Song - https://github.com/sagabanana
+- Jess - https://github.com/jess-s
+- Nirupama Singh - https://github.com/nirupamait
+- Pooja Vinod - https://github.com/poojavinod100
+- Alex Ahumada - https://github.com/projectsperminute
+- Temitope Oladokun
+- Mahmmoud Mahdi (qursaan)
+- Shivam Raisharma
+- Sankalp Dayal
+- Sushil Ghimire
+- Oudarjya Sen Sarma
+- Juan Carlos Kuri Pinto
+- Vigneshwari
+- Nachiket
+- cibaca
+- Nirupama Singh
+- Oluwadamilola Saka (Dammy)
+- Molly ngampit
+- Elena Kutanov
 
 ## Topics
    - PySyft(https://github.com/OpenMined/PySyft)
