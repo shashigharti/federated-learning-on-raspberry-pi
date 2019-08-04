@@ -17,6 +17,7 @@ We will set up PySyft on two Raspberry Pis and learn how to train a Recurrent Ne
 - Nirupama Singh - https://github.com/nirupamait
 - Pooja Vinod - https://github.com/poojavinod100
 - Alex Ahumada - https://github.com/projectsperminute
+- Elena Kutanov - https://github.com/EVikVik
 - Temitope Oladokun
 - Mahmmoud Mahdi (qursaan)
 - Shivam Raisharma
@@ -29,7 +30,7 @@ We will set up PySyft on two Raspberry Pis and learn how to train a Recurrent Ne
 - cibaca
 - Oluwadamilola Saka (Dammy)
 - Molly ngampit
-- Elena Kutanov
+
 
 ## Start Contributing
 The tutorial on how to contribute can be found here . https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/How-to-contribute
