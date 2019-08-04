@@ -4,8 +4,8 @@ Scholars from the Secure and Private AI Scholarship Challenge from Facebook and 
 We will set up PySyft on two Raspberry Pis and learn how to train a Recurrent Neural Network on a Raspberry Pi via PySyft.
 
 ## Project lead
-- Shashi Gharti: Project lead - https://github.com/shashigharti
-- Helena Barmer: Project lead - https://github.com/helenabarmer
+- Shashi Gharti - https://github.com/shashigharti
+- Helena Barmer - https://github.com/helenabarmer
 
 ## Contributors/Team
 - Erin Song - https://github.com/sagabanana
