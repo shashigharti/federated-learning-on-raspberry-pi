@@ -1,0 +1,10 @@
+$ sudo apt install libopenblas-dev libblas-dev m4 cmake cython python3-dev python3-yaml python3-setuptools
+$ git clone --recursive https://github.com/pytorch/pytorch --branch=v1.0.0
+$ cd pytorch
+$ export NO_CUDA=1
+$ export NO_DISTRIBUTED=1
+$ export NO_MKLDNN=1
+$ export NO_NNPACK=1
+$ export NO_QNNPACK=1
+$ cd pytorch_install/pytorch
+$ python3 setup.py build 
