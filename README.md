@@ -35,7 +35,8 @@ We will set up PySyft on two Raspberry Pis and learn how to train a Recurrent Ne
 - Molly ngampit
 - Ebinbin Ajagun - https://github.com/meajagun
 - Ankur Bhatia
-- Suparna S Nair 
+- Suparna S Nair - https://github.com/suparnasnair
+- Sayed Maheen Basheer - https://github.com/SayedMaheen
 
 
 ## Start Contributing
