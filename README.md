@@ -22,7 +22,7 @@ We will set up PySyft on two Raspberry Pis and learn how to train a Recurrent Ne
 - Ayesha Manzur - https://github.com/GlowWorm95
 - Ivoline Ngong (Ivy) - https://github.com/ivyclare
 - Nachiket - https://github.com/nachiket273
-- Joyce Chidiadi
+- Joyce Chidiadi - https://github.com/Joycechidi
 - Temitope Oladokun
 - Shivam Raisharma
 - Sankalp Dayal - https://github.com/sankalpdayal5
@@ -39,5 +39,26 @@ We will set up PySyft on two Raspberry Pis and learn how to train a Recurrent Ne
 
 
 ## Start Contributing
-The tutorial on how to contribute can be found here . https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/How-to-contribute
+The tutorial on how to contribute can be found here. https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/How-to-contribute
+
+## Getting Started:
+## Project Equipment Setup
+This project requires the following equipment:
+# 1. Raspberry PIs:
+-- > 2 Raspberry PIs 3 B+ running Raspbian Stretch 4.14
+-- > The PIs are connected to the internet via Ethernet cables.
+-- > Each PI has its own static IP(Internet Protocol) address.
+
+# 2. Laptop or Desktop:
+-- > The laptop or desktop machine is running Ubuntu 18.04 LTS and connected to the same LAN where the Raspberry PIs through a switch.
+
+# 3. Ethernet Port
+A TP-Link 5-Port Ethernet Switch was used
+
+## Libraries and Dependencies
+The following are the major python libraries and dependencies used in the project
+1. Install Python 3.6.7 which is the version that seems to be compatible and more stable with PySyft and PyTorch at the moment.
+2. Install PyTorch 1.0.0
+This section proves difficult and took several hours to complete. Some of the project members had the experience where their installation got stuck or even crashed halfway through. Before installing PyTorch a swap file was created. Then install PyTorch.
+3. Install PySyft and its dependencies
 
