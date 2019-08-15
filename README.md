@@ -22,7 +22,7 @@ We will set up PySyft on two Raspberry Pis and learn how to train a Recurrent Ne
 - Ivoline Ngong (Ivy) - https://github.com/ivyclare
 - Nachiket - https://github.com/nachiket273
 - Joyce Chidiadi - https://github.com/Joycechidi
-- Temitope Oladokun
+- Temitope Oladokun - https://github.com/TemitopeOladokun
 - Shivam Raisharma
 - Sankalp Dayal - https://github.com/sankalpdayal5
 - Sushil Ghimire
