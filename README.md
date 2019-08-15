@@ -36,7 +36,8 @@ We will set up PySyft on two Raspberry Pis and learn how to train a Recurrent Ne
 - Ankur Bhatia
 - Suparna S Nair - https://github.com/suparnasnair
 - Sayed Maheen Basheer - https://github.com/SayedMaheen
-
+- Sergio Valderrama - https://github.com/vucket
+- Stanislav Ladyzhenskiy - https://github.com/LStan
 
 ## Start Contributing
 The tutorial on how to contribute can be found here. https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/How-to-contribute
