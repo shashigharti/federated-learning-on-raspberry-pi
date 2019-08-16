@@ -65,15 +65,8 @@ The following are the major python libraries and dependencies used in the projec
 This section proves difficult and took several hours to complete. Some of the project members had the experience where their installation got stuck or even crashed halfway through. Before installing PyTorch a swap file was created. Then install PyTorch.
 3. Install PySyft and its dependencies
 ## How to get Started
-1. Download Rasbian Buster (the latest Raspbain image), which comes with pre-installed python 3.7.3: because older version of rasbian comes with python 3.5, and we have to install python 3.6.7 or higher separately.
-Download: https://www.raspberrypi.org/downloads/
-You can either choose NOOBS are Raspbian, I would recommend to go for Raspbian.
-![Screenshot](https://imgur.com/DmcyN9E.jpg)
-2. Choose your favorite image burner. I personally use Etcher
-Download: https://www.balena.io/etcher/
-![Screenshot](https://imgur.com/11eMRnn.jpg)
-After installing, it looks like this
-![Screenshot](https://imgur.com/pbxmRO3.jpg)
-3. Get an SD card reader. Insert your SD card in it. Plug in your machine(laptop/computer). Open Etcher, select the Raspbain Buster newly downloaded file(image). Select the SD card, you want to install(burn) raspbian in. Click Flash. It takes around 5 mins to install. Then eject the SD card reader. Take out SD card from it, and insert it in your Raspberry Pi and tadaa congrats you have an economical desktop computer :D
+
+## What is federated learning?
+Articles written by the team: https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Federated-learning:-Articles-written-by-the-scholars-of-SPAIC
 
 
