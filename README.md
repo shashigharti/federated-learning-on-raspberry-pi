@@ -16,10 +16,8 @@ This project requires the following equipment:
 -- > Each PI has its own static IP(Internet Protocol) address.
 - Laptop or Desktop:
 -- > The laptop or desktop machine is running Ubuntu 18.04 LTS and connected to the same LAN where the Raspberry PIs through a switch.
-
 - Ethernet Port
 A TP-Link 5-Port Ethernet Switch was used
-
 - Libraries and Dependencies
 The following are the major python libraries and dependencies used in the project
 1. Install Python 3.6.7 which is the version that seems to be compatible and more stable with PySyft and PyTorch at the moment.
