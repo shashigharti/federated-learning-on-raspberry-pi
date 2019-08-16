@@ -64,4 +64,9 @@ The following are the major python libraries and dependencies used in the projec
 2. Install PyTorch 1.0.0
 This section proves difficult and took several hours to complete. Some of the project members had the experience where their installation got stuck or even crashed halfway through. Before installing PyTorch a swap file was created. Then install PyTorch.
 3. Install PySyft and its dependencies
+## How to get Started
+1. Download Rasbian Buster (the latest Raspbain image), which comes with pre-installed python 3.7.3: because older version of rasbian comes with python 3.5, and we have to install python 3.6.7 or higher separately
+https://www.raspberrypi.org/downloads/
+2. 
+
 
