@@ -64,7 +64,9 @@ The following are the major python libraries and dependencies used in the projec
 2. Install PyTorch 1.0.0
 This section proves difficult and took several hours to complete. Some of the project members had the experience where their installation got stuck or even crashed halfway through. Before installing PyTorch a swap file was created. Then install PyTorch.
 3. Install PySyft and its dependencies
+
 ## How to get Started
+Articles written by the team: https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Raspberry-Pi-tutorials:-Tutorials-written-by-the-scholars-of-SPAIC
 
 ## What is federated learning?
 Articles written by the team: https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Federated-learning:-Articles-written-by-the-scholars-of-SPAIC
