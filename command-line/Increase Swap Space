@@ -1,0 +1,8 @@
+$ sudo nano /etc/dphys-swapfile
+This opens up dhys-swapfile in nano editor.  Locate the below line: 
+CONF_SWAPFILE=100
+And change this to:
+CONF_SWAPFILE=2048
+to increase the swap size to 2GB (2*1024 Bytes)
+Press Ctrl+O (Overwrite the changes). Press Enter (Yes)
+Press Ctrl+X (Exit from nano)
