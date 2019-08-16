@@ -74,5 +74,6 @@ Download: https://www.balena.io/etcher/
 ![Screenshot](https://imgur.com/11eMRnn.jpg)
 After installing, it looks like this
 ![Screenshot](https://imgur.com/pbxmRO3.jpg)
+3. Get an SD card reader. Insert your SD card in it. Plug in your machine(laptop/computer). Open Etcher, select the Raspbain Buster newly downloaded file(image). Select the SD card, you want to install(burn) raspbian in. Click Flash. It takes around 5 mins to install. Then eject the SD card reader. Take out SD card from it, and insert it in your Raspberry Pi and tadaa congrats you have an economical desktop computer :D
 
 
