@@ -67,7 +67,10 @@ This section proves difficult and took several hours to complete. Some of the pr
 ## How to get Started
 1. Download Rasbian Buster (the latest Raspbain image), which comes with pre-installed python 3.7.3: because older version of rasbian comes with python 3.5, and we have to install python 3.6.7 or higher separately.
 Download: https://www.raspberrypi.org/downloads/
+You can either choose NOOBS are Raspbian, I would recommend to go for Raspbian.
 ![Screenshot](https://imgur.com/DmcyN9E.jpg)
-2. 
+2. Choose your favorite image burner. I personally use Etcher
+Download: https://www.balena.io/etcher/
+![Screenshot](https://imgur.com/11eMRnn.jpg)
 
 
