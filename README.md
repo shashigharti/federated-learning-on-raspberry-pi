@@ -72,5 +72,7 @@ You can either choose NOOBS are Raspbian, I would recommend to go for Raspbian.
 2. Choose your favorite image burner. I personally use Etcher
 Download: https://www.balena.io/etcher/
 ![Screenshot](https://imgur.com/11eMRnn.jpg)
+After installing, it looks like this
+![Screenshot](https://imgur.com/pbxmRO3.jpg)
 
 
