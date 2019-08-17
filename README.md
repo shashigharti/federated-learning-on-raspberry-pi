@@ -4,10 +4,12 @@ Scholars from the Secure and Private AI Scholarship Challenge from Facebook and 
 We will set up PySyft on two Raspberry Pis and learn how to train a Recurrent Neural Network on a Raspberry Pi via PySyft.
 ***
 
-[# Purpose of the project](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Federated-learning:-Articles-written-by-the-scholars-of-SPAIC)
+# Purpose of the project
 The purpose of using federated learning on a Raspberry Pi (RPI) is to build the model on the device so that data does not have to be moved to a centralized server. In addition to increased privacy, FL works well for Internet-of-Things applications because training can be done on the device instead of having to pass data between devices and a centralized server.
 
 This project, which implements the OpenMined tutorial simulates the process using 2 RPIs to classify a person's surname with its most likely language of origin.
+
+Read more about this in the article written by [Jess](https://github.com/jess-s) [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Federated-learning:-Articles-written-by-the-scholars-of-SPAIC)
 
 
 ## Federated learning?
@@ -34,12 +36,7 @@ Would you like to know what parts are needed and how to get started? Have a look
 ## Topics
    - [PySyft](https://github.com/OpenMined/PySyft)
    - [Raspberry Pi](https://www.raspberrypi.org/)
-   ***
-
-
-***
-# Background   
-This project is based on [this](https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/) tutorial by [Daniele Gadler](https://github.com/DanyEle) from [OpenMined](https://www.openmined.org/).
+   
 ***
 ## Project leads
 - Shashi Gharti - https://github.com/shashigharti
