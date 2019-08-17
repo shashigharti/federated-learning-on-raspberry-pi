@@ -35,7 +35,18 @@ Would you like to know what parts are needed and how to get started? Have a look
 > All these articles can also be found [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Raspberry-Pi-tutorials:-Tutorials-written-by-the-scholars-of-SPAIC) in our Wiki section.
 
 ***
+## Implementations of the project
+Have a look here to see the implementation of the project in different ways:
+- Process to run the project - [Elena Kutanov](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/elena_kutanov)
+- Process to run the project - [Sergio Valderrama](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/sergio_valderrama)
+- PyTorch V1.0.0 Wheel file - [Suparna S Nair](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/pytorch_wheels)
 
+# Code
+- Find the code and dataset for the project [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/Federated%20Recurrent%20Neural%20Network).
+
+## Shortcut to command line
+Want a quick guide for the command line commands used? Have a look [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/command-line).
+***
 ## Topics
    - [PySyft](https://github.com/OpenMined/PySyft)
    - [Raspberry Pi](https://www.raspberrypi.org/)
