@@ -9,7 +9,7 @@ The purpose of using federated learning on a Raspberry Pi (RPI) is to build the 
 
 This project, which implements the OpenMined tutorial simulates the process using 2 RPIs to classify a person's surname with its most likely language of origin.
 
-Read more about this in the article written by [Jess](https://github.com/jess-s) [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Federated-learning:-Articles-written-by-the-scholars-of-SPAIC)
+Read more about this [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Federated-learning:-Articles-written-by-the-scholars-of-SPAIC) in the article written by [Jess](https://github.com/jess-s) 
 
 
 ## Federated learning?
