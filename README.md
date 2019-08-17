@@ -1,7 +1,10 @@
 # Federated Learning with Raspberry PI (PySyft)
-Scholars from the Secure and Private AI Scholarship Challenge from Facebook and Udacity working together to implement [this](https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/) tutorial by [Daniele Gadler](https://github.com/DanyEle) from [OpenMined](https://www.openmined.org/).
+Scholars from the Secure and Private AI Scholarship Challenge by [Facebook AI](https://ai.facebook.com/) and [Udacity](https://www.udacity.com/) working together to implement [this](https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/) tutorial by [Daniele Gadler](https://github.com/DanyEle) from [OpenMined](https://www.openmined.org/).
 
 We will set up PySyft on two Raspberry Pis and learn how to train a Recurrent Neural Network on a Raspberry Pi via PySyft.
+
+Would you like to learn more about Secure and Private AI? Join this free course from Udacity [here](https://www.udacity.com/course/secure-and-private-ai--ud185)
+
 ***
 
 # Purpose of the project
