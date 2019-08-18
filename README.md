@@ -34,7 +34,9 @@ Would you like to know what parts are needed and how to get started? Have a look
 - [Project Equipment Setup](https://medium.com/@jcchidiadi/federated-learning-with-raspberry-pi-project-equipment-setup-38c2f88cb677)
 - [A Step by Step guide to installing PySyft in Raspberry Pi](https://medium.com/@suparnasnair/a-step-by-step-guide-to-installing-pysyft-in-raspberry-pi-d8d10c440c37)
 > All these articles can also be found [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Raspberry-Pi-tutorials:-Tutorials-written-by-the-scholars-of-SPAIC) in our Wiki section.
-
+***
+### Stuck on a problem?
+Do not worry, we have it all covered for you. Head over to the troubleshooting section [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Troubleshooting)
 ***
 ### Implementations of the project
 Have a look here to see the implementation of the project in different ways:
