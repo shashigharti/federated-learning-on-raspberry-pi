@@ -3,5 +3,5 @@ Project based on https://blog.openmined.org/federated-learning-of-a-rnn-on-raspb
 In the project was done:
 - Installation the environment on the windows computer and Raspberry Pi 4 B+  (PySyft, PyTorch, Python, etc.)
 - Established remotely connection.
-- Started virtual worker 'Bob' and worker 'Alice' on the Raspberry Pi and trained the model.
+- Started virtual worker 'Bob' and Raspberry Pi worker 'Alice' and trained the model.
 - Wrote a part of setup guide.
