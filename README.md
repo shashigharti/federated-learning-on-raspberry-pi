@@ -32,6 +32,7 @@ Would you like to know what parts are needed and how to get started? Have a look
 - [Getting started with Raspberry Pi — Install Raspian on your Raspberry Pi using Windows](https://medium.com/@sarahhelena.barmer/getting-started-with-raspberry-pi-install-raspian-on-your-raspberry-pi-using-windows-e6df42decf56)
 - [Setup guide - What parts are needed for federated learning on Raspberry Pi?](https://medium.com/@elena.kutanov/setup-guide-what-parts-are-needed-for-federated-learning-on-raspberry-pi-7c0c7b06ab3b)
 - [Project Equipment Setup](https://medium.com/@jcchidiadi/federated-learning-with-raspberry-pi-project-equipment-setup-38c2f88cb677)
+- [A Step by Step guide to installing PySyft in Raspberry Pi](https://medium.com/@suparnasnair/a-step-by-step-guide-to-installing-pysyft-in-raspberry-pi-d8d10c440c37)
 > All these articles can also be found [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Raspberry-Pi-tutorials:-Tutorials-written-by-the-scholars-of-SPAIC) in our Wiki section.
 
 ***
@@ -40,6 +41,7 @@ Have a look here to see the implementation of the project in different ways:
 - Process to run the project - [Elena Kutanov](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/elena_kutanov)
 - Process to run the project - [Sergio Valderrama](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/sergio_valderrama)
 - PyTorch V1.0.0 Wheel file - [Suparna S Nair](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/pytorch_wheels)
+- Implementation of the code and guide -[Alejandro_Ahumada](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/alejandro_ahumada)
 
 # Code
 - Find the code and dataset for the project [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/Federated%20Recurrent%20Neural%20Network).
