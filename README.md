@@ -35,6 +35,7 @@ Would you like to know what parts are needed and how to get started? Have a look
 - [Setup guide - What parts are needed for federated learning on Raspberry Pi?](https://medium.com/@elena.kutanov/setup-guide-what-parts-are-needed-for-federated-learning-on-raspberry-pi-7c0c7b06ab3b)
 - [Project Equipment Setup](https://medium.com/@jcchidiadi/federated-learning-with-raspberry-pi-project-equipment-setup-38c2f88cb677)
 - [A Step by Step guide to installing PySyft in Raspberry Pi](https://medium.com/@suparnasnair/a-step-by-step-guide-to-installing-pysyft-in-raspberry-pi-d8d10c440c37)
+- [Getting started with Raspberry Pi — Set up Raspberry Pi in headless mode using Windows](https://medium.com/@sarahhelena.barmer/getting-started-with-raspberry-pi-set-up-raspberry-pi-in-headless-mode-using-windows-639365d7da2d)
 > All these articles can also be found [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Raspberry-Pi-tutorials:-Tutorials-written-by-the-scholars-of-SPAIC) in our Wiki section.
 ***
 ### Stuck on a problem?
