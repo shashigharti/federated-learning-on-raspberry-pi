@@ -1,0 +1,13 @@
+INSTALL PYTORCH THROUGH THE WHEEL FILE
+$ sudo apt install libopenblas-dev libblas-dev m4 cmake cython python3-dev python3-yaml python3-setuptools
+$ uname -a
+$ python3 --version
+$ wget https://github.com/shashigharti/federated-learning-on-raspberry-pi/archive/master.zip
+$ unzip master.zip
+$ cd federated-learning-on-raspberry-pi-master/
+$ cd pytorch_wheels/
+$ pip3 install --user ./torch-1.0.0a0+8322165-cp37-cp37m-linux_armv7l.whl
+$ python3
+
+>>> import torch 
+# if no errors torch is successfully installed!
