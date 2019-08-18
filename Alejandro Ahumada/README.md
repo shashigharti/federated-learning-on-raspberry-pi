@@ -1,6 +1,5 @@
 Project based on [this tutorial by Daniele Gadler](https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/).
 
-
 # Tools needed/used
 - Laptop (macOS)
 - 2x Raspberry Pi Model 3B
@@ -31,9 +30,3 @@ Project based on [this tutorial by Daniele Gadler](https://blog.openmined.org/fe
 - Mostly used Raspberry Pis on a headless setup (except initial setup).
 - Access RPi3B via macOS SSH in terminal to launch worker servers and build tools.
 - Used VS Code remote tools to edit code both on my laptop and the two RPi3B.
-      
-    
-
-    
- 
-   
