@@ -79,7 +79,7 @@ Want a quick guide for the command line commands used? Have a look [here](https:
 - Shivam Raisharma
 - Sankalp Dayal - https://github.com/sankalpdayal5
 - Sushil Ghimire
-- Juan Carlos Kuri Pinto
+- Juan Carlos Kuri Pinto - https://github.com/jckuri
 - cibaca
 - Oluwadamilola Saka (Dammy)
 - Ebinbin Ajagun - https://github.com/meajagun
