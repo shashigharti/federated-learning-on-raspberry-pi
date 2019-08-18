@@ -44,6 +44,7 @@ Have a look here to see the implementation of the project in different ways:
 - Process to run the project - [Sergio Valderrama](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/sergio_valderrama)
 - PyTorch V1.0.0 Wheel file - [Suparna S Nair](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/pytorch_wheels)
 - Implementation of the code and guide - [Alejandro Ahumada](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/alejandro_ahumada)
+- Implementation of the code using Nigerian surnames - [Temitope Oladokun](https://github.com/shashigharti/federated-learning-on-raspberry-pi/blob/master/Temitope%20Oladokun)
 ***
 ### Code
 Find the code and dataset for the project [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/Federated%20Recurrent%20Neural%20Network).
