@@ -1,0 +1,6 @@
+For torch v1.0
+$ pip3 install syft==0.1.13a1 --no-dependencies
+$ pip3 install Flask flask-socketio lz4 msgpack
+
+For torch v1.1
+$ pip3 install syft
