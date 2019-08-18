@@ -41,7 +41,7 @@ Have a look here to see the implementation of the project in different ways:
 - Process to run the project - [Elena Kutanov](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/elena_kutanov)
 - Process to run the project - [Sergio Valderrama](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/sergio_valderrama)
 - PyTorch V1.0.0 Wheel file - [Suparna S Nair](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/pytorch_wheels)
-- Implementation of the code and guide -[Alejandro_Ahumada](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/alejandro_ahumada)
+- Implementation of the code and guide - [Alejandro_Ahumada](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/alejandro_ahumada)
 
 # Code
 - Find the code and dataset for the project [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/Federated%20Recurrent%20Neural%20Network).
@@ -73,7 +73,6 @@ Want a quick guide for the command line commands used? Have a look [here](https:
 - Shivam Raisharma
 - Sankalp Dayal - https://github.com/sankalpdayal5
 - Sushil Ghimire
-- Oudarjya Sen Sarma
 - Juan Carlos Kuri Pinto
 - Vigneshwari
 - cibaca
