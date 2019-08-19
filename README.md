@@ -105,4 +105,4 @@ Want a quick guide for the command line commands used? Have a look [here](https:
 - Jetson Nano: Setup for Federated Learning - Read more about this setup [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Jetson-Nano:-Setup-for-Federated-Learning-written-by-Jess)
 - Would you like to learn more about Secure and Private AI? Join this free course from Udacity [here](https://www.udacity.com/course/secure-and-private-ai--ud185)
 - Join OpenMined Slack [here](http://slack.openmined.org/ )
-- PyTorch Robotics logo designes by [Alex Ahumada](https://github.com/projectsperminute)
+- PyTorch Robotics [logo](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/Alejandro%20Ahumada/logo) designed by [Alex Ahumada](https://github.com/projectsperminute)
