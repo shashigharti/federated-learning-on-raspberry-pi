@@ -80,7 +80,7 @@ Want a quick guide for the command line commands used? Have a look [here](https:
 - Temitope Oladokun - https://github.com/TemitopeOladokun
 - Shivam Raisharma - https://github.com/ShivamSRS
 - Sankalp Dayal - https://github.com/sankalpdayal5
-- Sushil Ghimire
+- Sushil Ghimire - https://github.com/sushil79g
 - Juan Carlos Kuri Pinto - https://github.com/jckuri
 - cibaca
 - Oluwadamilola Saka (Dammy)
