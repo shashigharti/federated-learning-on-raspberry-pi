@@ -69,32 +69,33 @@ Want a quick guide for the command line commands used? Have a look [here](https:
    
 ***
 ### Project leads
-- [Helena Barmer](https://github.com/helenabarmer)
-- [Shashi Gharti](https://github.com/shashigharti)
+- [x] [Helena Barmer](https://github.com/helenabarmer)
+- [x] [Shashi Gharti](https://github.com/shashigharti)
 
 
 ### Contributors/Team
-- [Jess](https://github.com/jess-s)
-- [Nirupama Singh](https://github.com/nirupamait)
-- [Pooja Vinod](https://github.com/poojavinod100)
-- [Alex Ahumada](https://github.com/projectsperminute)
-- [Elena Kutanov](https://github.com/EVikVik)
-- [Ayesha Manzur](https://github.com/GlowWorm95)
-- [Ivoline Ngong](https://github.com/ivyclare)
-- [Joyce Chidiadi ](https://github.com/Joycechidi)
-- [Temitope Oladokun](https://github.com/TemitopeOladokun)
-- [Shivam Raisharma](https://github.com/ShivamSRS)
-- [Sankalp Dayal](https://github.com/sankalpdayal5)
-- [Sushil Ghimire](https://github.com/sushil79g)
-- [Juan Carlos Kuri Pinto](https://github.com/jckuri)
-- [Ebinbin Ajagun](https://github.com/meajagun)
-- [Suparna S Nair](https://github.com/suparnasnair)
-- [Sayed Maheen Basheer](https://github.com/SayedMaheen)
-- [Sergio Valderrama](https://github.com/vucket)
-- [Stanislav Ladyzhenskiy](https://github.com/LStan)
-- [Mikaela Sanchez](https://github.com/mikaelasanchez)
-- [Muhammad Naufil](https://github.com/mnauf)
-- [cibaca](https://github.com/cibaca)
+
+- [x] [Jess](https://github.com/jess-s)
+- [x] [Nirupama Singh](https://github.com/nirupamait)
+- [x] [Pooja Vinod](https://github.com/poojavinod100)
+- [x] [Alex Ahumada](https://github.com/projectsperminute)
+- [x] [Elena Kutanov](https://github.com/EVikVik)
+- [x] [Ayesha Manzur](https://github.com/GlowWorm95)
+- [x] [Ivoline Ngong](https://github.com/ivyclare)
+- [x] [Joyce Chidiadi ](https://github.com/Joycechidi)
+- [x] [Temitope Oladokun](https://github.com/TemitopeOladokun)
+- [x] [Shivam Raisharma](https://github.com/ShivamSRS)
+- [x] [Sankalp Dayal](https://github.com/sankalpdayal5)
+- [x] [Sushil Ghimire](https://github.com/sushil79g)
+- [x] [Juan Carlos Kuri Pinto](https://github.com/jckuri)
+- [x] [Ebinbin Ajagun](https://github.com/meajagun)
+- [x] [Suparna S Nair](https://github.com/suparnasnair)
+- [x] [Sayed Maheen Basheer](https://github.com/SayedMaheen)
+- [x] [Sergio Valderrama](https://github.com/vucket)
+- [x] [Stanislav Ladyzhenskiy](https://github.com/LStan)
+- [x] [Mikaela Sanchez](https://github.com/mikaelasanchez)
+- [x] [Muhammad Naufil](https://github.com/mnauf)
+- [x] [cibaca](https://github.com/cibaca)
 
 ***
 
@@ -104,3 +105,4 @@ Want a quick guide for the command line commands used? Have a look [here](https:
 - Jetson Nano: Setup for Federated Learning - Read more about this setup [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Jetson-Nano:-Setup-for-Federated-Learning-written-by-Jess)
 - Would you like to learn more about Secure and Private AI? Join this free course from Udacity [here](https://www.udacity.com/course/secure-and-private-ai--ud185)
 - Join OpenMined Slack [here](http://slack.openmined.org/ )
+- PyTorch Robotics logo designes by [Alex Ahumada](https://github.com/projectsperminute)
