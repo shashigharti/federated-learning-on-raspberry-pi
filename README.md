@@ -69,33 +69,33 @@ Want a quick guide for the command line commands used? Have a look [here](https:
    
 ***
 ### Project leads
-- [x] [Helena Barmer](https://github.com/helenabarmer)
-- [x] [Shashi Gharti](https://github.com/shashigharti)
+- [x] [Helena Barmer](https://github.com/helenabarmer) - @Helena Barmer
+- [x] [Shashi Gharti](https://github.com/shashigharti) - @Shashi Gharti
 
 
 ### Contributors/Team
 
-- [x] [Jess](https://github.com/jess-s)
-- [x] [Nirupama Singh](https://github.com/nirupamait)
-- [x] [Pooja Vinod](https://github.com/poojavinod100)
-- [x] [Alex Ahumada](https://github.com/projectsperminute)
-- [x] [Elena Kutanov](https://github.com/EVikVik)
-- [x] [Ayesha Manzur](https://github.com/GlowWorm95)
+- [x] [Jess](https://github.com/jess-s) - @Jess
+- [x] [Nirupama Singh](https://github.com/nirupamait) - @Nirupama Singh
+- [x] [Pooja Vinod](https://github.com/poojavinod100) - @Pooja Vinod
+- [x] [Alex Ahumada](https://github.com/projectsperminute) - @Alex Ahumada
+- [x] [Elena Kutanov](https://github.com/EVikVik) - @Elena Kutanov
+- [x] [Ayesha Manzur](https://github.com/GlowWorm95) - @Ayesha Manzur
 - [x] [Ivoline Ngong](https://github.com/ivyclare)
-- [x] [Joyce Chidiadi ](https://github.com/Joycechidi)
-- [x] [Temitope Oladokun](https://github.com/TemitopeOladokun)
-- [x] [Shivam Raisharma](https://github.com/ShivamSRS)
-- [x] [Sankalp Dayal](https://github.com/sankalpdayal5)
-- [x] [Sushil Ghimire](https://github.com/sushil79g)
-- [x] [Juan Carlos Kuri Pinto](https://github.com/jckuri)
-- [x] [Ebinbin Ajagun](https://github.com/meajagun)
-- [x] [Suparna S Nair](https://github.com/suparnasnair)
-- [x] [Sayed Maheen Basheer](https://github.com/SayedMaheen)
-- [x] [Sergio Valderrama](https://github.com/vucket)
-- [x] [Stanislav Ladyzhenskiy](https://github.com/LStan)
-- [x] [Mikaela Sanchez](https://github.com/mikaelasanchez)
-- [x] [Muhammad Naufil](https://github.com/mnauf)
-- [x] [cibaca](https://github.com/cibaca)
+- [x] [Joyce Chidiadi ](https://github.com/Joycechidi) -  @Joyce
+- [x] [Temitope Oladokun](https://github.com/TemitopeOladokun) - @Temitope Oladokun
+- [x] [Shivam Raisharma](https://github.com/ShivamSRS) - @Shivam Raisharma
+- [x] [Sankalp Dayal](https://github.com/sankalpdayal5) - @Sankalp Dayal
+- [x] [Sushil Ghimire](https://github.com/sushil79g) - @Sushil Ghimire
+- [x] [Juan Carlos Kuri Pinto](https://github.com/jckuri) -  @Juan Carlos Kuri Pinto
+- [x] [Ebinbin Ajagun](https://github.com/meajagun) - @Ebinbin Ajagun
+- [x] [Suparna S Nair](https://github.com/suparnasnair) - @Suparna S Nair
+- [x] [Sayed Maheen Basheer](https://github.com/SayedMaheen) - @Sayed Maheen Basheer
+- [x] [Sergio Valderrama](https://github.com/vucket) - @Sergio Valderrama
+- [x] [Stanislav Ladyzhenskiy](https://github.com/LStan) - @Stanislav Ladyzhenskiy
+- [x] [Mikaela Sanchez](https://github.com/mikaelasanchez) -  @Mika
+- [x] [Muhammad Naufil](https://github.com/mnauf) - @Muhammad Naufil
+- [x] [cibaca](https://github.com/cibaca) - @cibaca
 
 ***
 
