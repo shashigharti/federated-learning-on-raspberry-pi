@@ -101,7 +101,7 @@ Want a quick guide for the command line commands used? Have a look [here](https:
 
 ### More information
 - For more articles, resources and links visit our wiki section [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki)
-- Virtual Team Experiences — Project Showcase Challenge - Article about the shared experiences from three participants of the group. Read the article [here](https://medium.com/@sarahhelena.barmer/virtual-team-experiences-project-showcase-challenge-4b95fe479330)
+- Read [this](https://medium.com/@sarahhelena.barmer/virtual-team-experiences-project-showcase-challenge-4b95fe479330) article about the shared experiences from three participants of the group: Virtual Team Experiences — Project Showcase Challenge
 - Future implementations of the project - Read our suggestions [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Future-implementations) 
 - Jetson Nano: Setup for Federated Learning - Read more about this setup [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Jetson-Nano:-Setup-for-Federated-Learning-written-by-Jess)
 - Would you like to learn more about Secure and Private AI? Join this free course from Udacity [here](https://www.udacity.com/course/secure-and-private-ai--ud185)
