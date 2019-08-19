@@ -101,7 +101,7 @@ Want a quick guide for the command line commands used? Have a look [here](https:
 
 ### More information
 - Wiki - For more articles, resources and links visit our wiki section [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki)
-- Future implementations of the project - Read our suggestions[here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Future-implementations) 
+- Future implementations of the project - Read our suggestions [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Future-implementations) 
 - Jetson Nano: Setup for Federated Learning - Read more about this setup [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Jetson-Nano:-Setup-for-Federated-Learning-written-by-Jess)
 - Would you like to learn more about Secure and Private AI? Join this free course from Udacity [here](https://www.udacity.com/course/secure-and-private-ai--ud185)
 - Join OpenMined Slack [here](http://slack.openmined.org/ )
