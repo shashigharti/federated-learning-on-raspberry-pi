@@ -81,7 +81,7 @@ Want a quick guide for the command line commands used? Have a look [here](https:
 - [x] [Alex Ahumada](https://github.com/projectsperminute) - @Alex Ahumada
 - [x] [Elena Kutanov](https://github.com/EVikVik) - @Elena Kutanov
 - [x] [Ayesha Manzur](https://github.com/GlowWorm95) - @Ayesha Manzur
-- [x] [Ivoline Ngong](https://github.com/ivyclare)
+- [x] [Ivoline Ngong](https://github.com/ivyclare) - @Ivy
 - [x] [Joyce Chidiadi ](https://github.com/Joycechidi) -  @Joyce
 - [x] [Temitope Oladokun](https://github.com/TemitopeOladokun) - @Temitope Oladokun
 - [x] [Shivam Raisharma](https://github.com/ShivamSRS) - @Shivam Raisharma
