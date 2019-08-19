@@ -19,7 +19,8 @@ Read more about this [here](https://github.com/shashigharti/federated-learning-o
 Would you like to know more about to federated learning? Look no further! Our team has prepared a few articles to get you up to speed:
 - [Federated Learning On Raspberry Pi](https://medium.com/@ayeshamanzur123/federated-learning-on-raspberry-pi-8c470cfe7cd3)
 - [Federated Learning: An Overview](https://medium.com/secure-and-private-ai-writing-challenge/federated-learning-an-overview-64708606297f)
-- [Article: Federated Learning on Raspberry Pi](https://github.com/shashigharti/federated-learning-on-raspberry-pi/blob/master/Federated%20learning%20on%20Raspberry%20Pi.md)
+- [Federated Learning on Raspberry Pi](https://github.com/shashigharti/federated-learning-on-raspberry-pi/blob/master/Federated%20learning%20on%20Raspberry%20Pi.md)
+- [The Complete Beginners Guide to Federated Learning With LSTM With Pytorch](https://medium.com/@ivolinengong/c1c26ca22d96)
 
 
 ***
@@ -35,6 +36,7 @@ Would you like to know what parts are needed and how to get started? Have a look
 - [A Step by Step guide to installing PySyft in Raspberry Pi](https://medium.com/@suparnasnair/a-step-by-step-guide-to-installing-pysyft-in-raspberry-pi-d8d10c440c37)
 - [Getting started with Raspberry Pi — Set up Raspberry Pi in headless mode using Windows](https://medium.com/@sarahhelena.barmer/getting-started-with-raspberry-pi-set-up-raspberry-pi-in-headless-mode-using-windows-639365d7da2d)
 - [Installing Raspberry Pi on Virtual Machine](https://github.com/shashigharti/federated-learning-on-raspberry-pi/blob/master/Raspberry-Pi-on-Virtual-Worker.md)
+- [Setting Static IP address for Raspberry Pi](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Setting-Static-IP-address-for-Raspberry-Pi,--by-Sayed-Maheen-Basheer)
 
 ***
 ### Stuck on a problem?
@@ -55,7 +57,8 @@ Have a look here to see the implementation of the project in different ways:
 ***
 ### Code
 - Find the code and dataset for the project [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/Federated%20Recurrent%20Neural%20Network).
-- Slides: Char RNN Names Classification by [Nirupama Sing](https://github.com/nirupamait) - Check the slides [here](https://www.slideshare.net/NirupamaSingh8/char-rnn-names-classification)
+- Slides: Char RNN Names Classification - Check the slides [here](https://www.slideshare.net/NirupamaSingh8/char-rnn-names-classification)
+- What does it mean to train a Neural Network? Read article [here](https://medium.com/@mikaelaysanchez/what-does-it-mean-to-train-a-neural-network-64065fbc7bb0)
 ***
 ### Shortcut to command line
 Want a quick guide for the command line commands used? Have a look [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/command-line).
@@ -97,5 +100,7 @@ Want a quick guide for the command line commands used? Have a look [here](https:
 
 ### More information
 - Wiki - For more articles, resources and links visit our wiki section [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki)
+- Future implementations of the project - Read our suggestions[here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Future-implementations) 
+- Jetson Nano: Setup for Federated Learning - Read more about this setup [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Jetson-Nano:-Setup-for-Federated-Learning-written-by-Jess)
 - Would you like to learn more about Secure and Private AI? Join this free course from Udacity [here](https://www.udacity.com/course/secure-and-private-ai--ud185)
 - Join OpenMined Slack [here](http://slack.openmined.org/ )
