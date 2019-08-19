@@ -1,7 +1,7 @@
 ![PyTorch Robotics logo](Alejandro%20Ahumada/logo/export/PyTorch-Robotics_Logo_v001@2x.png "PyTorch Robotics logo")
 
 # Federated Learning with Raspberry PI (PySyft)
-We are a group of scholars part of the study group PyTorch Robotics from the Secure and Private AI Scholarship Challenge by [Facebook AI](https://ai.facebook.com/) and [Udacity](https://www.udacity.com/) working together to implement [this](https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/) tutorial by [Daniele Gadler](https://github.com/DanyEle) from [OpenMined](https://www.openmined.org/).
+We are a group of scholars in the study group PyTorch Robotics from the Secure and Private AI Scholarship Challenge by [Facebook AI](https://ai.facebook.com/) and [Udacity](https://www.udacity.com/) working together to implement [this](https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/) tutorial by [Daniele Gadler](https://github.com/DanyEle) from [OpenMined](https://www.openmined.org/).
 
 We will set up PySyft on two Raspberry Pis and learn how to train a Recurrent Neural Network on a Raspberry Pi via PySyft.
 
