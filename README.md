@@ -56,12 +56,12 @@ Have a look here to see the implementation of the project in different ways:
 - Federated learning with LSTM - [Ivoline Ngong](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/Ivoline%20Ngong)
 ***
 ### Code
-- Find the code and dataset for the project [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/Federated%20Recurrent%20Neural%20Network).
+- Find the code and dataset for the project [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/Federated%20Recurrent%20Neural%20Network)
 - Slides: Char RNN Names Classification - Check the slides [here](https://www.slideshare.net/NirupamaSingh8/char-rnn-names-classification)
 - What does it mean to train a Neural Network? Read article [here](https://medium.com/@mikaelaysanchez/what-does-it-mean-to-train-a-neural-network-64065fbc7bb0)
 ***
 ### Shortcut to command line
-Want a quick guide for the command line commands used? Have a look [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/command-line).
+Want a quick guide for the command line commands used? Have a look [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/Command%20Line)
 ***
 ### Topics
    - [PySyft](https://github.com/OpenMined/PySyft)
