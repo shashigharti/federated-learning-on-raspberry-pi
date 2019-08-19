@@ -1,11 +1,9 @@
 ![PyTorch Robotics logo](Alejandro%20Ahumada/logo/export/PyTorch-Robotics_Logo_v001@2x.png "PyTorch Robotics logo")
 
 # Federated Learning with Raspberry PI (PySyft)
-Scholars from the Secure and Private AI Scholarship Challenge by [Facebook AI](https://ai.facebook.com/) and [Udacity](https://www.udacity.com/) working together to implement [this](https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/) tutorial by [Daniele Gadler](https://github.com/DanyEle) from [OpenMined](https://www.openmined.org/).
+We are a group of scholars part of the study group PyTorch Robotics from the Secure and Private AI Scholarship Challenge by [Facebook AI](https://ai.facebook.com/) and [Udacity](https://www.udacity.com/) working together to implement [this](https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/) tutorial by [Daniele Gadler](https://github.com/DanyEle) from [OpenMined](https://www.openmined.org/).
 
 We will set up PySyft on two Raspberry Pis and learn how to train a Recurrent Neural Network on a Raspberry Pi via PySyft.
-
-Would you like to learn more about Secure and Private AI? Join this free course from Udacity [here](https://www.udacity.com/course/secure-and-private-ai--ud185)
 
 ***
 
@@ -63,33 +61,35 @@ Want a quick guide for the command line commands used? Have a look [here](https:
    
 ***
 ### Project leads
-- Shashi Gharti - https://github.com/shashigharti
-- Helena Barmer - https://github.com/helenabarmer
+- [Helena Barmer](https://github.com/helenabarmer)
+- [Shashi Gharti](https://github.com/shashigharti)
+
 
 ### Contributors/Team
-- Jess - https://github.com/jess-s
-- Nirupama Singh - https://github.com/nirupamait
-- Pooja Vinod - https://github.com/poojavinod100
-- Alex Ahumada - https://github.com/projectsperminute
-- Elena Kutanov - https://github.com/EVikVik
-- Mahmmoud Mahdi (qursaan) - https://github.com/qursaan
-- Ayesha Manzur - https://github.com/GlowWorm95
-- Ivoline Ngong (Ivy) - https://github.com/ivyclare
-- Nachiket - https://github.com/nachiket273
-- Joyce Chidiadi - https://github.com/Joycechidi
-- Temitope Oladokun - https://github.com/TemitopeOladokun
-- Shivam Raisharma - https://github.com/ShivamSRS
-- Sankalp Dayal - https://github.com/sankalpdayal5
-- Sushil Ghimire - https://github.com/sushil79g
-- Juan Carlos Kuri Pinto - https://github.com/jckuri
-- cibaca
-- Oluwadamilola Saka (Dammy)
-- Ebinbin Ajagun - https://github.com/meajagun
-- Ankur Bhatia
-- Suparna S Nair - https://github.com/suparnasnair
-- Sayed Maheen Basheer - https://github.com/SayedMaheen
-- Sergio Valderrama - https://github.com/vucket
-- Stanislav Ladyzhenskiy - https://github.com/LStan
-- Mikaela Sanchez - https://github.com/mikaelasanchez
-- Muhammad Naufil - https://github.com/mnauf
+- [Jess](https://github.com/jess-s)
+- [Nirupama Singh](https://github.com/nirupamait)
+- [Pooja Vinod](https://github.com/poojavinod100)
+- [Alex Ahumada](https://github.com/projectsperminute)
+- [Elena Kutanov](https://github.com/EVikVik)
+- [Ayesha Manzur](https://github.com/GlowWorm95)
+- [Ivoline Ngong](https://github.com/ivyclare)
+- [Joyce Chidiadi ](https://github.com/Joycechidi)
+- [Temitope Oladokun](https://github.com/TemitopeOladokun)
+- [Shivam Raisharma](https://github.com/ShivamSRS)
+- [Sankalp Dayal](https://github.com/sankalpdayal5)
+- [Sushil Ghimire](https://github.com/sushil79g)
+- [Juan Carlos Kuri Pinto](https://github.com/jckuri)
+- [Ebinbin Ajagun](https://github.com/meajagun)
+- [Suparna S Nair](https://github.com/suparnasnair)
+- [Sayed Maheen Basheer](https://github.com/SayedMaheen)
+- [Sergio Valderrama](https://github.com/vucket)
+- [Stanislav Ladyzhenskiy](https://github.com/LStan)
+- [Mikaela Sanchez](https://github.com/mikaelasanchez)
+- [Muhammad Naufil](https://github.com/mnauf)
+- [cibaca](https://github.com/cibaca)
 
+***
+
+### More information
+- Would you like to learn more about Secure and Private AI? Join this free course from Udacity [here](https://www.udacity.com/course/secure-and-private-ai--ud185)
+- Join OpenMined Slack [here](http://slack.openmined.org/ )
