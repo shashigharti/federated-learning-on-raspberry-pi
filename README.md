@@ -19,8 +19,8 @@ Read more about this [here](https://github.com/shashigharti/federated-learning-o
 Would you like to know more about to federated learning? Look no further! Our team has prepared a few articles to get you up to speed:
 - [Federated Learning On Raspberry Pi](https://medium.com/@ayeshamanzur123/federated-learning-on-raspberry-pi-8c470cfe7cd3)
 - [Federated Learning: An Overview](https://medium.com/secure-and-private-ai-writing-challenge/federated-learning-an-overview-64708606297f)
-- [Article: Federated Learning on Raspberry Pi](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Federated-learning:-Articles-written-by-the-scholars-of-SPAIC)
-> All these articles can also be found [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Federated-learning:-Articles-written-by-the-scholars-of-SPAIC) in our Wiki section.
+- [Article: Federated Learning on Raspberry Pi](https://github.com/shashigharti/federated-learning-on-raspberry-pi/blob/master/Federated%20learning%20on%20Raspberry%20Pi.md)
+
 
 ***
 ### Raspberry Pi?
@@ -34,7 +34,8 @@ Would you like to know what parts are needed and how to get started? Have a look
 - [Project Equipment Setup](https://medium.com/@jcchidiadi/federated-learning-with-raspberry-pi-project-equipment-setup-38c2f88cb677)
 - [A Step by Step guide to installing PySyft in Raspberry Pi](https://medium.com/@suparnasnair/a-step-by-step-guide-to-installing-pysyft-in-raspberry-pi-d8d10c440c37)
 - [Getting started with Raspberry Pi — Set up Raspberry Pi in headless mode using Windows](https://medium.com/@sarahhelena.barmer/getting-started-with-raspberry-pi-set-up-raspberry-pi-in-headless-mode-using-windows-639365d7da2d)
-> All these articles can also be found [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Raspberry-Pi-tutorials:-Tutorials-written-by-the-scholars-of-SPAIC) in our Wiki section.
+- [Installing Raspberry Pi on Virtual Machine](https://github.com/shashigharti/federated-learning-on-raspberry-pi/blob/master/Raspberry-Pi-on-Virtual-Worker.md)
+
 ***
 ### Stuck on a problem?
 Do not worry, we have it all covered for you. Head over to the troubleshooting section [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Troubleshooting)
@@ -47,10 +48,14 @@ Have a look here to see the implementation of the project in different ways:
 - Implementation of the code and guide - [Alejandro Ahumada](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/Alejandro%20Ahumada)
 - Implementation of the code using Nigerian surnames - [Temitope Oladokun](https://github.com/shashigharti/federated-learning-on-raspberry-pi/blob/master/Temitope%20Oladokun)
 - Shivams journey - [Shivam Raisharma](https://github.com/shashigharti/federated-learning-on-raspberry-pi/blob/master/Shivam%20Raisharma/My%20Journey.md)
+- Implementing Federated learning on CIFAR10 Dataset - [Ebinbin Ajagun](https://github.com/shashigharti/federated-learning-on-raspberry-pi/blob/master/Ebinbin%20Ajagun/Federated_Learning_CIFAR10.ipynb)
+- Classifying names with a character-level RNN - [Nirupama Singh](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/Nirupama)
+- Federated learning FashionMNIST - [Sushil Ghimire](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/Sushil%20Ghimire)
+- Federated learning with LSTM - [Ivoline Ngong](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/Ivoline%20Ngong)
 ***
 ### Code
 - Find the code and dataset for the project [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/Federated%20Recurrent%20Neural%20Network).
-- Char RNN Names Classification by [Nirupama Sing](https://github.com/nirupamait) - Check the slides [here](https://www.slideshare.net/NirupamaSingh8/char-rnn-names-classification)
+- Slides: Char RNN Names Classification by [Nirupama Sing](https://github.com/nirupamait) - Check the slides [here](https://www.slideshare.net/NirupamaSingh8/char-rnn-names-classification)
 ***
 ### Shortcut to command line
 Want a quick guide for the command line commands used? Have a look [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/tree/master/command-line).
@@ -91,5 +96,6 @@ Want a quick guide for the command line commands used? Have a look [here](https:
 ***
 
 ### More information
+- Wiki - For more articles, resources and links visit our wiki section [here](https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki)
 - Would you like to learn more about Secure and Private AI? Join this free course from Udacity [here](https://www.udacity.com/course/secure-and-private-ai--ud185)
 - Join OpenMined Slack [here](http://slack.openmined.org/ )
