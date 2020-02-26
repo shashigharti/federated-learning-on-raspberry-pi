@@ -68,7 +68,7 @@ Want a quick guide for the command line commands used? Have a look [here](https:
    - [Raspberry Pi](https://www.raspberrypi.org/)
    
 ***
-### Project leads
+### Project leaders
 - [x] [Helena Barmer](https://github.com/helenabarmer) - @Helena Barmer
 - [x] [Shashi Gharti](https://github.com/shashigharti) - @Shashi Gharti
 
